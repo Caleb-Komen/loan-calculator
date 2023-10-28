@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604272508227",
+    "project_id": "loan-calculator-16c33",
+    "storage_bucket": "loan-calculator-16c33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604272508227:android:4e579f83d411afc94803f6",
+        "android_client_info": {
+          "package_name": "com.techdroidcentre.loancalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtA5zNQmHKkCiDJF39cS0nW3AjTBJlneY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
